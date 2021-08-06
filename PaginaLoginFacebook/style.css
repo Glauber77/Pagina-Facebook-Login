@@ -1,0 +1,50 @@
+#face{
+    width: 260px;
+    height: 120px;
+}
+
+p2{
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+}
+
+p3{
+    color: rgb(0, 0, 0);
+    margin-left: 760px;
+    font-size: 14px;
+}
+
+#botaoGo{
+    width: 365px;
+    height: 50px;
+    font-size: 20px;
+}
+
+#esqueci{
+    text-align: center;
+}
+
+#NovaConta{
+    background-color: green;
+    margin-left: 110px;
+}
+
+body{
+    background-color: 	#D3D3D3;
+}
+
+.conteudo1{
+    background-color: rgb(190, 188, 188);
+    width: 460px;
+    height: 400px;
+    margin-top: 190px;
+    margin-left: 120px;
+}
+
+.card{
+    background-color: white;
+    margin-top: 150px;
+    margin-left: 80px;
+    width: 400px;
+    height: 400px;
+}
